@@ -28,7 +28,10 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
     "titanone" => array(
       "name" => "Titan One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")  
+      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
+    "Tilt Neon" => array(
+      "name" => "Tilt Neon",
+      "url"  => "https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap")  
   );
 
   // Otsakkeen taustat aakkosjärjestyksessä.
