@@ -23,6 +23,7 @@ set('writable_dirs', []);
 // Hosts
 
 host('neutroni.hayo.fi')
+    ->USER('apsalone')
     ->set('deploy_path', '~apsalone/public_html/{{application}}');    
     
 
